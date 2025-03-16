@@ -18,7 +18,7 @@ This project demonstrates a basic machine learning workflow using Linear Regress
 ## ▶️ How to Run
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/house-price-prediction-linear-regression.git
+   git clone https://github.com/mohammadbaghershahmir/house-price-prediction-linear-regression.git
    ```
 2. Make sure your CSV file (`housePrice.csv`) is located in the correct path or adjust the code accordingly.
 3. Install dependencies:
